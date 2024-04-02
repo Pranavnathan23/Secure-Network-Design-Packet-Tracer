@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this portfolio project, I will create a secure network topology using Cisco Packet Tracer focusing on building the network, applying authentication to switches and routers, enabling communication between devices in different VLANs, configuring DHCP on the router, and securing switch ports from attacks.
+For this portfolio project, my objective is to construct a secure network infrastructure using Cisco Packet Tracer. The primary focus will be on establishing the network layout, implementing authentication protocols across switches and routers, facilitating inter-VLAN communication, setting up DHCP services on the router, and fortifying switch ports against potential security breaches.
 <br />
 <br />
 
